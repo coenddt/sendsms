@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Pioneer Ding",
+    "email": "coen_ddt@qq.com",
+    "url": ""
+  },
+  "name": "sendsms",
+  "description": "",
+  "version": "1.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coenddt/sendsms.git"
+  },
+  "main": "./index",
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "",
+  "_id": "",
+  "_from": ""
+}
